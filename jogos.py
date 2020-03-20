@@ -19,5 +19,5 @@ def escolher_jogo():
         print("Jogando adivinhação")
         adivinhacao.jogar()
 
-if __name__ == "__main__":
+if (__name__ == "__main__"):
     escolher_jogo()
